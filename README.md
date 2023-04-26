@@ -12,6 +12,7 @@ Recipe Program
 -From there you can then choose options from displaying the recipe in a appropriate format to clearing your recipe details.
 -You can choose to scale your recipe by half, double or triple and the program will calcute the quantities accordingly.
 -You can decide to reset the quantities to their original value and the program will do that for you automatically.
+-The program can confirm with the user if they really want to clear all stored data from memory or keep in inside.
 -After you have entered your recipe details and made neccessary adjustments then u can proceed to exiting the program with all you recipe details intact.
 
 ---
