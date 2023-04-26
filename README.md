@@ -13,3 +13,6 @@ Recipe Program
 -You can choose to scale your recipe by half, double or triple and the program will calcute the quantities accordingly.
 -You can decide to reset the quantities to their original value and the program will do that for you automatically.
 -After you have entered your recipe details and made neccessary adjustments then u can proceed to exiting the program with all you recipe details intact.
+
+---
+https://github.com/ST10214697/Prog-POE-Part1
